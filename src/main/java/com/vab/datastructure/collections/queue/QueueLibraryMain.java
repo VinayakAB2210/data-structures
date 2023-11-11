@@ -22,7 +22,6 @@ public class QueueLibraryMain {
 			System.out.println(i);
 		}
 		
-
 	}
 
 }

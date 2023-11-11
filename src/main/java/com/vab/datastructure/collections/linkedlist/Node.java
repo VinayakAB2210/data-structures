@@ -2,7 +2,12 @@ package com.vab.datastructure.collections.linkedlist;
 
 public class Node {
 
-	int data;
-	Node next;
+    String data;
+    Node next;
+
+    public Node(String data) {
+        this.data = data;
+        next = null;
+    }
 
 }

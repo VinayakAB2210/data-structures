@@ -63,7 +63,7 @@ public class SetExample {
 
 		Iterator<String> linkedTreeSetIt = linkedTreeSet.iterator();
 
-		System.out.println("\nElements from LinkedTreeSet");
+		System.out.println("\nElements from TreeSet");
 		while (linkedTreeSetIt.hasNext()) {
 
 			System.out.print(linkedTreeSetIt.next() + "\t");

@@ -5,7 +5,7 @@ import java.util.List;
 import com.vab.datastructure.utility.Product;
 import com.vab.datastructure.utility.Util;
 
-public class StreaMaxMinDemo {
+public class StreamMaxMinDemo {
 
 	public static void main(String[] args) {
 		List<Product> products = Util.productList();

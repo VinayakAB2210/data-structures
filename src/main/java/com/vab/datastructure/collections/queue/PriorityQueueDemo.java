@@ -1,9 +1,9 @@
-package com.vab.datastructure.utility;
+package com.vab.datastructure.collections.queue;
 
 import java.util.Iterator;
 import java.util.PriorityQueue;
 
-public class QueueExample {
+public class PriorityQueueDemo {
 
 	public static void main(String args[]) {
 		PriorityQueue<String> queue = new PriorityQueue<String>();

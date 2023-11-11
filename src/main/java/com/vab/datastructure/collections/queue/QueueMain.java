@@ -3,7 +3,7 @@ package com.vab.datastructure.collections.queue;
 public class QueueMain {
 
 	public static void main(String[] args) {
-		Queue q = new Queue();
+		CircularQueueUsingArray q = new CircularQueueUsingArray();
 
 		q.enqueue(1);
 		q.enqueue(2);

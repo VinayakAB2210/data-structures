@@ -1,6 +1,6 @@
 package com.vab.datastructure.collections.queue;
 
-public class Queue {
+public class CircularQueueUsingArray {
 	private int capacity = 5;
 	private int front;
 	private int rear;
